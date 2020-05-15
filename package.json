@@ -1,0 +1,19 @@
+{
+  "name": "teacher-student-rest-api",
+  "version": "0.0.1",
+  "description": "get post put delete",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sutuden",
+    "api"
+  ],
+  "author": "durmus ali saymaz",
+  "license": "ISC"
+}
